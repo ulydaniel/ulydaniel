@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm a Computer Engineering Student at SDSU
 
-<!--
-**ulydaniel/ulydaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Major** at **San Diego State University**
 
-Here are some ideas to get you started:
+I'm passionate about building things close to the hardware and making systems efficient, reliable, and fast. I enjoy working across the stack—from digital logic to embedded software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Areas of Interest
+- **FPGA Development**
+- **Embedded Systems**
+- **Digital Signal Processing (DSP)**
+
+---
+
+## 💻 Programming Languages
+- **C / C++**
+- **Python**
+- **Java**
+
+---
+
+## 🚀 What I'm Working On
+- Hardware-software co-design projects
+- Low-level system programming
+- Signal processing and real-time systems
+
+---
+
+## 📚 Always Learning
+Currently expanding my knowledge in:
+- Digital design & verification  
+- Embedded Linux & bare-metal systems  
+- Performance optimization and DSP algorithms
+
+---
+
+Feel free to check out my repositories and reach out if you want to collaborate!
