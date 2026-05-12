@@ -17,7 +17,7 @@ I'm passionate about building things close to the hardware and making systems ef
 - **C / C++**
 - **Python**
 - **Java**
-
+- **Assembly (x86, ARM, RISC-V)**
 ---
 
 ## 🚀 What I'm Working On
