@@ -10,6 +10,7 @@ I'm passionate about building things close to the hardware and making systems ef
 - **FPGA Development**
 - **Embedded Systems**
 - **Digital Signal Processing (DSP)**
+- **Full-Stack Web Development**
 
 ---
 
